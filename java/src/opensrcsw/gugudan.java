@@ -22,7 +22,7 @@ public class gugudan {
 		 }
 		 }
 		 else if (a < 0) {
-			 System.out.println("구구단 출력 불가");
+			 System.out.print("구구단 출력 불가");
 		 }
 	 }
 
