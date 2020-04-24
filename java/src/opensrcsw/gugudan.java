@@ -21,6 +21,9 @@ public class gugudan {
 			 System.out.println(a + " * "+ i + " = " + (a*i));
 		 }
 		 }
+		 else if (a < 0) {
+			 System.out.println("구구단 출력 불가");
+		 }
 	 }
 
 }
